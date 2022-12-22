@@ -6,3 +6,4 @@ Arquivo da aula de Git e github para iniciantes
  saiba mais em  [yasminvizeu.com.br](http://yasminvizeu@gmail.com)
 
  gostou do curso ? quer mais? ajsude com uma doação
+  ola tudo bem 
