@@ -7,3 +7,5 @@ Arquivo da aula de Git e github para iniciantes
 
  gostou do curso ? quer mais? ajsude com uma doação
   ola tudo bem 
+
+  :smile:
